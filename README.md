@@ -27,4 +27,10 @@
 - <https://github.com/dchantzis>
 
 ## Screenshots
-![Image 1](http://dchantzis.github.io/template-portfolio-b/assets/img/screenshots/screenshot.png)
+![Image 1](http://janinamohr.nfshost.com/assets/img/screenshots/screenshot-1.png)
+
+![Image 2](http://janinamohr.nfshost.com/assets/img/screenshots/screenshot-2.png)
+
+![Image 3](http://janinamohr.nfshost.com/assets/img/screenshots/screenshot-3.png)
+
+![Image 4](http://janinamohr.nfshost.com/assets/img/screenshots/screenshot-4.png)
