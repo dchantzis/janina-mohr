@@ -1,0 +1,29 @@
+---
+layout: page
+title: Contact
+titleBefore:
+titleAfter:
+meta: Contact information
+author: Janina Mohr
+image:
+keywords:
+includeInNavigation: true
+weight: 6
+description: |
+  [contact.mohr@googlemail.com](mailto:contact.mohr@googlemail.com)
+  janina mohr
+  berlin
+  germany
+include-google-map: true
+sitemap:
+  lastMod: 2016-01-01
+  priority: 0.7
+  changeFreq: monthly
+  include: true
+---
+
+{% if page.include-google-map %}
+  {% include map-and-text.html %}
+{% else %}
+  {% include just-text.html %}
+{% endif %}
