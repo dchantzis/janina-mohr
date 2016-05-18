@@ -26,7 +26,7 @@ $(window).load(function() {
         var $this = $(this);
         if($this.hasClass('collection-cover')){
           var $collectionGallery = $this.next();
-          $this = $collectionGallery.find('.image-wrapper');
+          $this = $collectionGallery.find('.image-wrapper').first();
         }
         $this.addClass('js-lightbox-image-selected');
         $('.lightbox-img').attr('src', $this.find('a').attr('href'));
@@ -59,6 +59,7 @@ $(window).load(function() {
       $('.lightbox').attr('data-state','visible');
 
       $currentElement.removeClass('js-lightbox-image-selected');
+      console.log($nextElement.html);
       $nextElement.addClass('js-lightbox-image-selected');
     }
 
