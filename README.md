@@ -8,7 +8,7 @@
 
 **Git Repo:** [https://github.com/dchantzis/janina-mohr](https://github.com/dchantzis/janina-mohr)
 
-**Website created using the Jekyll Template "Institute Paper" [https://github.com/dchantzis/jekyll-onna](https://github.com/dchantzis/jekyll-onna)**
+**Website created using my Jekyll Template "Institute Paper" [https://github.com/dchantzis/jekyll-onna](https://github.com/dchantzis/jekyll-onna)**
 
 ### Technologies and tools used:
 
