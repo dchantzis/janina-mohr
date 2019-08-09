@@ -27,10 +27,10 @@
 - <https://github.com/dchantzis>
 
 ## Screenshots
-![Image 1](http://janinamohr.nfshost.com/assets/img/screenshots/screenshot-1.png)
+![Image 1](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/janina-mohr/screenshot-1.png)
 
-![Image 2](http://janinamohr.nfshost.com/assets/img/screenshots/screenshot-2.png)
+![Image 2](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/janina-mohr/screenshot-2.png)
 
-![Image 3](http://janinamohr.nfshost.com/assets/img/screenshots/screenshot-3.png)
+![Image 3](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/janina-mohr/screenshot-3.png)
 
-![Image 4](http://janinamohr.nfshost.com/assets/img/screenshots/screenshot-4.png)
+![Image 4](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/janina-mohr/screenshot-4.png)
