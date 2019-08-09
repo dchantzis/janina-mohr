@@ -4,7 +4,7 @@
 
 **Built date:** Late 2015
 
-**Website URL:** [http://janinamohr.nfshost.com](http://janinamohr.nfshost.com)
+<!-- **Website URL:** [http://janinamohr.nfshost.com](http://janinamohr.nfshost.com) -->
 
 **Git Repo:** [https://github.com/dchantzis/janina-mohr](https://github.com/dchantzis/janina-mohr)
 
